@@ -1,0 +1,442 @@
+  UID   PID TTY           TIME CMD
+    0     1 ??         0:26.77 /sbin/launchd
+    0   135 ??         0:02.75 /usr/sbin/syslogd
+    0   136 ??         0:02.01 /usr/libexec/UserEventAgent (System)
+    0   139 ??         0:00.25 /System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld
+    0   140 ??         0:07.56 /usr/libexec/kextd
+    0   141 ??         0:11.16 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+    0   143 ??         0:01.14 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+    0   146 ??         0:05.13 /usr/sbin/systemstats --daemon
+    0   147 ??         0:21.54 /usr/libexec/configd
+    0   148 ??         0:53.79 /Library/Application Support/TrendMicro/TmccMac/iCoreService -p 61201 -n 61100 /Library/Application Support/TrendMicro/common/lib/libTmProxy.dylib
+    0   149 ??         0:12.79 /Library/Application Support/TrendMicro/TmccMac/iCoreService -p 61100 -n 61100 /Library/Application Support/TrendMicro/common/lib/libnamingService.dylib /Library/Application Support/TrendMicro/common/lib/libtaskManager.dylib /Library/Application Support/TrendMicro/common/lib/libnotificationService.dylib /Library/Application Support/TrendMicro/common/lib/libTmUpdate.dylib /Library/Application Support/TrendMicro/common/lib/libTmDb.dylib
+    0   150 ??         0:00.02 endpointsecurityd
+    0   151 ??         0:04.93 /System/Library/CoreServices/powerd.bundle/powerd
+    0   153 ??         0:10.85 /Library/Application Support/TrendMicro/TmccMac/iCoreService -p 61401 -n 61100 /Library/Application Support/TrendMicro/Plug-in/iTISPlugin.framework/iTISPlugin
+    0   157 ??         0:10.22 /usr/libexec/logd
+    0   158 ??         0:00.06 /usr/libexec/keybagd -t 15
+    0   161 ??         0:00.45 /usr/libexec/watchdogd
+    0   165 ??         0:21.03 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+  240   166 ??         0:00.11 /System/Library/CoreServices/iconservicesd
+    0   167 ??         0:01.08 /usr/libexec/diskarbitrationd
+    0   171 ??         0:02.75 /usr/libexec/coreduetd
+    0   175 ??         0:08.80 /usr/libexec/opendirectoryd
+    0   176 ??         0:02.70 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+    0   177 ??         0:00.04 /Library/PrivilegedHelperTools/com.docker.vmnetd
+    0   178 ??         0:07.13 /System/Library/CoreServices/launchservicesd
+  266   179 ??         0:00.59 /usr/libexec/timed
+  213   180 ??         0:00.12 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+    0   181 ??         0:06.24 /usr/sbin/securityd -i
+    0   182 ??         0:00.01 auditd -l
+  205   184 ??         0:15.08 /usr/libexec/locationd
+    0   187 ??         0:00.01 autofsd
+  244   188 ??         0:00.17 /usr/libexec/displaypolicyd -k 1
+    0   190 ??         0:05.77 /usr/libexec/dasd
+    0   192 ??         0:16.35 /Library/Application Support/TrendMicro/TmccMac/iCoreService -p 61304 -n 61100 /Library/Application Support/TrendMicro/common/lib/libfeedback.dylib /Library/Application Support/TrendMicro/common/lib/libcensus.dylib
+    0   194 ??         0:08.99 /usr/libexec/PerfPowerServices
+    0   196 ??         7:14.27 /Library/Application Support/TrendMicro/TmccMac/iCoreService -p 61301 -n 61100 /Library/Application Support/TrendMicro/common/lib/libTmAntiMalware.dylib
+   74   197 ??         0:35.50 /usr/local/mysql/bin/mysqld --user=_mysql --basedir=/usr/local/mysql --datadir=/usr/local/mysql/data --plugin-dir=/usr/local/mysql/lib/plugin --log-error=/usr/local/mysql/data/mysqld.local.err --pid-file=/usr/local/mysql/data/mysqld.local.pid --keyring-file-data=/usr/local/mysql/keyring/keyring --early-plugin-load=keyring_file=keyring_file.so
+    0   198 ??         0:00.07 /System/Library/CoreServices/logind
+    0   199 ??         0:00.44 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+    0   200 ??         0:00.01 /usr/sbin/KernelEventAgent
+    0   202 ??         0:07.47 /usr/sbin/bluetoothd
+  261   203 ??         0:53.32 /usr/libexec/hidd
+    0   205 ??         0:15.10 /usr/libexec/corebrightnessd --launchd
+    0   206 ??         0:02.10 /usr/libexec/AirPlayXPCHelper
+    0   207 ??         0:16.54 /usr/sbin/notifyd
+    0   208 ??         0:05.42 /usr/libexec/amfid
+  241   209 ??         0:01.38 /usr/sbin/distnoted daemon
+    0   211 ??         0:38.93 /usr/libexec/syspolicyd
+    0   212 ??         0:00.85 /System/Library/CoreServices/coreservicesd
+    0   213 ??         0:03.05 /usr/sbin/cfprefsd daemon
+    0   214 ??         0:00.03 aslmanager
+    0   235 ??         0:04.74 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd system
+  501   237 ??         0:05.80 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+    0   241 ??         0:00.53 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+  263   248 ??         0:03.17 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+    0   249 ??         2:08.97 /usr/libexec/airportd
+  202   250 ??         2:15.05 /usr/sbin/coreaudiod
+  202   251 ??         0:00.08 /System/Library/Frameworks/CoreAudio.framework/Versions/A/XPCServices/com.apple.audio.DriverHelper.xpc/Contents/MacOS/com.apple.audio.DriverHelper
+    0   253 ??         0:19.58 /usr/libexec/trustd
+    0   254 ??         0:04.31 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+    0   255 ??         0:00.56 /usr/libexec/nehelper
+    0   262 ??         0:02.52 /usr/libexec/mobileassetd
+   88   283 ??         5:13.10 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+   65   284 ??         0:10.54 /usr/sbin/mDNSResponder
+    0   285 ??         0:02.18 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+   24   286 ??         0:12.24 /usr/libexec/symptomsd
+    0   289 ??         0:00.36 /usr/sbin/mDNSResponderHelper
+  205   290 ??         0:01.37 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+  205   291 ??         0:00.09 /usr/libexec/secinitd
+  205   293 ??         0:00.01 /usr/sbin/cfprefsd agent
+  205   294 ??         0:00.14 /usr/libexec/trustd --agent
+    0   295 ??         0:01.61 /usr/libexec/searchpartyd
+  242   318 ??         0:01.47 /usr/libexec/nsurlsessiond --privileged
+    0   327 ??         0:00.02 /System/Library/CoreServices/ReportCrash daemon
+    0   330 ??         0:02.95 /usr/libexec/lsd runAsRoot
+    0   331 ??         0:00.74 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper -launchd
+    0   348 ??         0:00.06 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
+  202   349 ??         0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+    0   350 ??         0:01.06 /usr/libexec/findmydeviced
+    0   351 ??         0:00.14 /usr/libexec/diskmanagementd
+    0   360 ??         0:00.02 /usr/libexec/smd
+  270   361 ??         0:00.35 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserUSBHostHIDDevice0 0x100000483
+  270   363 ??         0:00.02 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserUSBHostHIDDevice0 0x100000489
+  270   364 ??         0:00.05 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserUSBHostHIDDevice0 0x10000048b
+  270   367 ??         0:00.99 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserUSBHostHIDDevice0 0x100000491
+  270   370 ??         0:00.01 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDEventDriver 0x1000004c2
+  270   371 ??         0:00.04 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDEventDriver.dfrv2 0x1000004c4
+    0   372 ??         0:01.50 /usr/libexec/runningboardd
+    0   378 ??         0:00.34 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+    0   379 ??         0:20.94 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+    0   388 ??         0:00.08 /usr/libexec/secinitd
+    0   389 ??         0:19.04 /usr/libexec/TouchBarServer
+  243   391 ??         0:00.08 /usr/libexec/nsurlstoraged --privileged
+    0   392 ??         0:00.05 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+    0   393 ??         0:00.01 /usr/libexec/multiversed
+    0   394 ??         0:00.03 /System/Library/CryptoTokenKit/com.apple.ifdreader.slotd/Contents/MacOS/com.apple.ifdreader
+    0   395 ??         0:00.04 /usr/libexec/colorsync.displayservices
+    0   396 ??         0:00.14 /usr/libexec/apfsd
+    0   397 ??         0:02.29 /usr/libexec/usbd
+    0   398 ??         0:00.08 /usr/libexec/thermald
+    0   399 ??         0:00.03 /usr/libexec/colorsyncd
+  262   400 ??         0:00.20 /System/Library/Frameworks/CoreMediaIO.framework/Resources/VDC.plugin/Contents/Resources/VDCAssistant
+    0   402 ??         0:00.01 /System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent
+    0   404 ??         0:00.11 /usr/libexec/tzd
+  200   405 ??         0:00.01 /System/Library/PrivateFrameworks/BridgeOSSoftwareUpdate.framework/Support/bosUpdateProxy
+    0   406 ??         0:00.61 /System/Library/CoreServices/SubmitDiagInfo server-init
+    0   408 ??         0:00.58 /usr/libexec/mobileactivationd
+   55   409 ??         0:00.47 /System/Library/CoreServices/appleeventsd --server
+    0   411 ??         0:00.57 /usr/libexec/biometrickitd --launchd
+    0   412 ??         0:00.57 /usr/libexec/sysmond
+    0   413 ??         0:00.02 /usr/libexec/bootinstalld
+    0   414 ??         0:00.77 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+    0   416 ??         0:00.29 /usr/sbin/distnoted agent
+    0   419 ??         0:00.05 /usr/libexec/biokitaggdd
+    0   420 ??         0:00.25 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+    0   421 ??         0:00.01 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/XPCServices/com.apple.cmio.registerassistantservice.xpc/Contents/MacOS/com.apple.cmio.registerassistantservice
+  260   429 ??         0:00.22 /usr/libexec/nfcd
+    0   431 ??         0:00.03 /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper
+    0   434 ??         0:00.03 /System/Library/Frameworks/GSS.framework/Helpers/GSSCred
+    0   437 ??         0:00.23 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+  501   438 ??         0:00.33 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+    0   439 ??         0:00.06 /usr/libexec/securityd_service
+  501   440 ??         0:07.36 /usr/sbin/cfprefsd agent
+    0   447 ??         0:00.32 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+  265   449 ??         0:00.89 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+    0   450 ??         0:04.15 /System/Library/PrivateFrameworks/StorageKit.framework/Resources/storagekitd
+  501   452 ??         0:02.70 /usr/libexec/UserEventAgent (Aqua)
+  501   454 ??         0:04.90 /usr/sbin/distnoted agent
+  501   455 ??         0:00.01 /System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple.sbd
+  501   456 ??         0:02.12 /usr/libexec/knowledge-agent
+  501   457 ??         0:00.68 /usr/sbin/universalaccessd launchd -s
+  501   458 ??         0:02.77 /usr/libexec/lsd
+  501   459 ??         0:22.12 /usr/libexec/trustd --agent
+  501   460 ??         0:08.03 /usr/libexec/secd
+  501   461 ??         1:46.90 /Applications/Telegram.app/Contents/MacOS/Telegram -psn_0_53261
+  501   462 ??         0:00.13 /System/Library/CoreServices/backgroundtaskmanagementagent
+  501   463 ??         0:03.82 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+  501   464 ??         0:00.54 /System/Library/CoreServices/sharedfilelistd
+  501   465 ??         0:06.39 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+    0   466 ??         0:03.44 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+  501   467 ??         0:00.25 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
+  501   468 ??         0:25.89 /Applications/Microsoft To Do.app/Contents/MacOS/Microsoft To Do -psn_0_57358
+  501   469 ??         0:01.59 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd
+  501   470 ??         0:03.53 /usr/libexec/nsurlsessiond
+  501   472 ??         0:04.55 /usr/libexec/rapportd
+  501   473 ??         0:25.70 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+  501   474 ??         0:05.09 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+  501   475 ??         0:05.45 /usr/sbin/usernoted
+  501   476 ??         3:04.66 /Applications/Microsoft Word.app/Contents/MacOS/Microsoft Word -psn_0_61455
+  501   477 ??         0:01.25 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+  501   478 ??         0:05.34 /System/Library/CoreServices/ControlStrip.app/Contents/MacOS/ControlStrip
+  501   479 ??         0:01.53 /System/Library/CoreServices/lockoutagent
+  501   480 ??         0:00.20 /usr/libexec/networkserviceproxy
+  501   481 ??         0:00.01 /System/Library/CoreServices/APFSUserAgent
+  501   482 ??         0:01.37 /usr/libexec/secinitd
+  501   483 ??         0:01.13 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+  501   484 ??         0:00.84 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
+  501   485 ??         0:00.69 /usr/libexec/dmd
+  501   486 ??         0:02.47 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent
+  501   487 ??         0:03.46 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+  501   488 ??         0:54.70 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+  501   489 ??         0:03.76 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+  501   491 ??         0:00.27 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper
+  501   492 ??         0:04.65 /usr/libexec/nsurlstoraged
+  501   495 ??         0:04.68 /Library/Application Support/TrendMicro/TmccMac/UIMgmt.app/Contents/MacOS/UIMgmt
+  501   496 ??         0:07.14 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+  501   497 ??         0:00.44 /System/Library/CoreServices/mapspushd
+    0   498 ??         0:00.59 /usr/sbin/WirelessRadioManagerd
+  501   499 ??         0:01.81 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+  501   500 ??         0:00.06 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+  501   502 ??         0:06.66 /usr/libexec/pkd
+  501   504 ??         0:00.63 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+  259   506 ??         0:00.03 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -s
+  501   507 ??         1:04.07 /Applications/Safari.app/Contents/MacOS/Safari -psn_0_77843
+  501   508 ??         0:03.91 /System/Library/Frameworks/AddressBook.framework/Executables/ContactsAccountsService
+  501   510 ??         0:00.34 /usr/libexec/pboard
+  501   512 ??         0:01.52 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+  501   513 ??         0:00.57 /System/Library/CoreServices/talagent
+  501   515 ??         0:06.28 /System/Library/CoreServices/iconservicesagent
+  501   516 ??         0:00.27 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+  501   517 ??         0:00.75 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+    0   518 ??         0:14.93 /usr/sbin/spindump
+  501   519 ??         0:01.23 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+  501   520 ??         0:00.07 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeaccountd
+  501   521 ??         0:00.04 /usr/libexec/spindump_agent
+  501   522 ??         0:12.81 /usr/libexec/sharingd
+  501   523 ??         0:01.00 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+  501   524 ??         0:00.25 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+  501   525 ??         0:00.37 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+  501   526 ??         0:00.27 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+  501   527 ??         0:00.74 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension
+  501   528 ??         0:01.96 /System/Library/Input Methods/EmojiFunctionRowIM.app/Contents/PlugIns/EmojiFunctionRowIM_Extension.appex/Contents/MacOS/EmojiFunctionRowIM_Extension
+  501   529 ??         0:02.31 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+  501   530 ??         0:00.02 /System/Library/PrivateFrameworks/CharacterPicker.framework/Versions/A/XPCServices/com.apple.CharacterPicker.FileService.xpc/Contents/MacOS/com.apple.CharacterPicker.FileService
+  501   531 ??         0:00.63 /usr/libexec/fmfd
+  501   533 ??         0:00.18 /usr/libexec/neagent
+  501   535 ??         0:00.65 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/Contents/MacOS/AppSSOAgent
+  501   538 ??         0:00.78 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+  501   544 ??         0:00.19 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+  501   545 ??         0:01.21 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+  501   546 ??         0:57.90 /Applications/Microsoft Excel.app/Contents/MacOS/Microsoft Excel -psn_0_118813
+  501   566 ??         0:14.41 /System/Applications/Mail.app/Contents/MacOS/Mail -psn_0_131104
+    0   567 ??         0:00.03 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
+  501   572 ??         0:13.77 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+  501   576 ??         0:21.36 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+    0   577 ??         0:00.69 /usr/sbin/systemsoundserverd
+  501   578 ??         0:13.42 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+  501   581 ??         0:03.94 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+  501   582 ??         0:00.39 /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+  501   583 ??         0:01.80 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+  501   584 ??         0:02.88 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.History.xpc/Contents/MacOS/com.apple.Safari.History
+  501   586 ??         0:00.10 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
+  501   589 ??         0:51.33 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+  501   590 ??         0:01.39 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+  501   592 ??         0:00.20 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+    0   594 ??         0:00.19 /usr/sbin/filecoordinationd
+  501   597 ??         0:00.71 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+  501   598 ??         0:00.89 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+  501   600 ??         0:00.66 /Library/Application Support/TrendMicro/TmccMac/UIMgmt.app/Contents/PlugIns/UIMgmtFinderSyncExtension.appex/Contents/MacOS/UIMgmtFinderSyncExtension
+  501   603 ??         0:00.01 /System/Library/PrivateFrameworks/login.framework/Versions/A/XPCServices/LoginUserService.xpc/Contents/MacOS/LoginUserService
+  501   605 ??         0:00.16 /System/Library/Frameworks/ImageIO.framework/Versions/A/XPCServices/ImageIOXPCService.xpc/Contents/MacOS/ImageIOXPCService
+  501   606 ??         0:00.18 /System/Library/CoreServices/pbs
+  501   607 ??         0:00.10 /usr/libexec/WiFiVelocityAgent
+  501   608 ??         0:00.23 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+  501   609 ??         0:00.31 /System/Library/PrivateFrameworks/CoreParsec.framework/parsec-fbf
+  501   610 ??         0:00.61 /Library/Application Support/TrendMicro/TmccMac/UIMgmt.app/Contents/PlugIns/UIMgmtFinderSyncExtension.appex/Contents/MacOS/UIMgmtFinderSyncExtension
+  501   611 ??         0:06.78 /System/Library/PrivateFrameworks/CalendarAgent.framework/Executables/CalendarAgent
+  501   612 ??         0:04.52 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+    0   613 ??         0:04.73 /usr/libexec/wifivelocityd
+  501   616 ??         0:02.73 /System/Library/PrivateFrameworks/CalendarNotification.framework/Versions/A/XPCServices/CalNCService.xpc/Contents/MacOS/CalNCService
+  501   617 ??         0:01.65 /Library/Application Support/TrendMicro/SafariToolbar/SafariToolbar.app/Contents/PlugIns/Extension.appex/Contents/MacOS/Extension
+    0   619 ??         0:01.98 /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCServices/com.apple.AmbientDisplayAgent.xpc/Contents/MacOS/com.apple.AmbientDisplayAgent
+  501   621 ??         0:07.37 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+  501   623 ??         0:02.30 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+  501   624 ??         0:00.01 SafeEjectGPUAgent
+  501   627 ??         0:00.18 /System/Library/CoreServices/Menu Extras/SafeEjectGPUExtra.menu/Contents/XPCServices/SafeEjectGPUService.xpc/Contents/MacOS/SafeEjectGPUService
+  501   629 ??         0:06.93 /System/Library/Frameworks/QuickLook.framework/Versions/A/XPCServices/QuickLookSatellite.xpc/Contents/MacOS/QuickLookSatellite
+  501   630 ??         0:01.47 /usr/libexec/remindd
+  501   632 ??         0:00.08 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariLaunchAgent
+  501   635 ??         0:00.85 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+  501   642 ??         0:00.46 /Applications/Safari.app/Contents/XPCServices/com.apple.Safari.SandboxBroker.xpc/Contents/MacOS/com.apple.Safari.SandboxBroker
+  501   648 ??         0:00.22 /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service
+  501   651 ??         0:05.63 /usr/libexec/swcd
+  501   655 ??         0:00.28 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/webinspectord
+  501   656 ??         0:00.46 /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/XPCServices/com.apple.CoreSimulator.CoreSimulatorService.xpc/Contents/MacOS/com.apple.CoreSimulator.CoreSimulatorService
+  501   657 ??         0:00.40 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+  501   659 ??         0:00.31 /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/XPCServices/SimulatorTrampoline.xpc/Contents/MacOS/SimulatorTrampoline
+  501   660 ??         0:01.42 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariCloudHistoryPushAgent
+  257   661 ??         0:00.03 /usr/libexec/DataDetectorsSourceAccess
+  501   662 ??         0:41.76 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501   663 ??         0:00.11 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/com.apple.siri.ClientFlow.ClientScripter.xpc/Contents/MacOS/com.apple.siri.ClientFlow.ClientScripter
+  501   664 ??         0:00.65 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeuid.app/Contents/MacOS/storeuid
+  501   665 ??         0:00.02 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/PrintCore.framework/Versions/A/printtool
+  258   668 ??         0:00.29 /usr/libexec/captiveagent
+  501   676 ??         0:00.09 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd
+  501   677 ??         0:00.45 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPLibraryAgent --launchd
+  501   678 ??         0:00.03 /System/Library/PrivateFrameworks/DistributedEvaluation.framework/Versions/A/XPCServices/com.apple.siri-distributed-evaluation.xpc/Contents/MacOS/com.apple.siri-distributed-evaluation
+  501   679 ??         0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  242   681 ??         0:00.19 /System/Library/PrivateFrameworks/StreamingZip.framework/Versions/A/XPCServices/com.apple.StreamingUnzipService.xpc/Contents/MacOS/com.apple.StreamingUnzipService
+  501   684 ??         0:00.15 /usr/libexec/replayd
+  235   685 ??         0:00.28 /usr/libexec/AssetCache/AssetCache
+  501   686 ??         0:00.56 /System/Library/CoreServices/diagnostics_agent
+    0   687 ??         0:00.02 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
+    0   688 ??         0:00.02 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+    0   695 ??         0:00.01 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+    0   696 ??         0:00.04 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheTetheratorService.xpc/Contents/MacOS/AssetCacheTetheratorService
+  265   697 ??         0:00.06 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fpsd
+  501   703 ??         0:24.19 /usr/local/opt/mongodb-community/bin/mongod --config /usr/local/etc/mongod.conf
+  501   704 ??         0:00.79 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+  501   709 ??         0:00.14 /System/Library/CoreServices/SocialPushAgent.app/Contents/MacOS/SocialPushAgent
+    0   710 ??         0:01.07 /Applications/GlobalProtect.app/Contents/Resources/PanGPS
+  501   714 ??         0:03.62 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd
+  501   715 ??         0:00.41 /System/Library/Image Capture/Support/icdd
+  501   718 ??         0:03.44 /Applications/GlobalProtect.app/Contents/MacOS/GlobalProtect
+  501   719 ??         0:00.47 /Library/Application Support/TrendMicro/PUM/TMPUMModule.app/Contents/MacOS/TMPUMModule
+  501   721 ??         0:00.78 /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/askpermissiond
+  501   724 ??         0:05.39 /Library/Application Support/Adobe/AdobeGCClient/AGMService -mode=logon
+  501   725 ??         0:00.48 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+  501   727 ??         0:44.72 /Users/sophie/Library/Application Support/Setapp/LaunchAgents/Setapp.app/Contents/MacOS/SetappAgent -xpcServer
+  501   728 ??         0:01.13 /System/Library/CoreServices/cloudpaird
+  501   731 ??         0:14.04 /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/MacOS/Creative Cloud --showwindow=false --onOSstartup=true
+  501   732 ??         0:07.59 /Users/sophie/Applications/ArduinoCreateAgent-1.1/ArduinoCreateAgent.app/Contents/MacOS/Arduino_Create_Bridge
+  501   733 ??         0:08.16 /Users/sophie/Library/Application Support/Setapp/LaunchAgents/SetappLauncher.app/Contents/MacOS/SetappLauncher -xpcServer
+  501   734 ??         0:01.11 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+  501   735 ??         0:00.85 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd
+    0   738 ??         0:00.05 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+  501   740 ??         0:00.25 /usr/libexec/findmydevice-user-agent
+    0   741 ??         0:00.05 /usr/libexec/taskgated
+  501   742 ??         0:00.05 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+  501   745 ??         0:00.78 /Users/sophie/Library/Application Support/iMusic/iMusic Helper.app/Contents/MacOS/iMusic Helper
+  501   749 ??         0:15.84 /Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app/Contents/MacOS/../libs/Adobe_CCXProcess.node /Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app/Contents/MacOS/../js/main.js
+  501   754 ??         0:00.77 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
+  501   756 ??         0:01.58 /Applications/Docker.app/Contents/MacOS/Docker
+  501   757 ??         0:00.47 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+  501   762 ??         0:00.51 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+  501   764 ??         0:00.66 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+  501   766 ??         0:00.31 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+  501   770 ??         0:00.50 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+  501   771 ??         0:00.04 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+    0   772 ??         0:00.16 /System/Library/CoreServices/iconservicesagent runAsRoot
+  501   773 ??         0:00.45 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.external.extra.xpc/Contents/MacOS/com.apple.dock.external.extra
+  501   776 ??         0:00.01 /System/Library/CoreServices/ReportCrash agent
+  501   778 ??         0:00.15 /System/Library/CoreServices/ScopedBookmarkAgent
+    0   782 ??         0:10.11 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+  501   787 ??         0:10.43 /Library/Application Support/Adobe/Adobe Desktop Common/IPCBox/AdobeIPCBroker.app/Contents/MacOS/AdobeIPCBroker -launchedbyvulcan /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/MacOS/Creative Cloud
+  247   792 ??         0:00.66 /usr/libexec/gamecontrollerd
+  501   801 ??         0:00.02 /usr/libexec/loginitemregisterd
+  501   808 ??         0:39.91 /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/MacOS/../Frameworks/Adobe CEF Helper (GPU).app/Contents/MacOS/Adobe CEF Helper (GPU) --type=gpu-process --field-trial-handle=1718379636,7917574835211639891,10560761657129142334,131072 --enable-features=CastMediaRouteProvider --disable-features=OutOfBlinkCors --no-sandbox --locales-dir-path=/Library/Application Support/Adobe/Adobe Desktop Common/CEF/Chromium Embedded Framework.framework/Resources --log-file=/Users/sophie/Library/Logs/CreativeCloud/ACC/CEF.log --log-severity=warning --user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36 CreativeCloud/5.3.1.470 --lang=en --gpu-preferences=MAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAA6AAAABwAAADgAAAAAAAAAOgAAAAAAAAA8AAAAAAAAAD4AAAAAAAAAAABAAAAAAAACAEAAAAAAAAQAQAAAAAAABgBAAAAAAAAIAEAAAAAAAAoAQAAAAAAADABAAAAAAAAOAEAAAAAAABAAQAAAAAAAEgBAAAAAAAAUAEAAAAAAABYAQAAAAAAAGABAAAAAAAAaAEAAAAAAABwAQAAAAAAAHgBAAAAAAAAgAEAAAAAAACIAQAAAAAAAJABAAAAAAAAmAEAAAAAAACgAQAAAAAAAKgBAAAAAAAAsAEAAAAAAAC4AQAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAAAAAAABwAAABAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAAEAAAAAAAAAEAAAAAAAAAABAAAABgAAABAAAAAAAAAAAQAAAAcAAAAQAAAAAAAAAAEAAAAIAAAAEAAAAAAAAAABAAAACgAAABAAAAAAAAAAAQAAAAsAAAAQAAAAAAAAAAEAAAANAAAAEAAAAAAAAAAEAAAAAAAAABAAAAAAAAAABAAAAAYAAAAQAAAAAAAAAAQAAAAHAAAAEAAAAAAAAAAEAAAACAAAABAAAAAAAAAABAAAAAoAAAAQAAAAAAAAAAQAAAALAAAAEAAAAAAAAAAEAAAADQAAABAAAAAAAAAABgAAAAAAAAAQAAAAAAAAAAYAAAAGAAAAEAAAAAAAAAAGAAAABwAAABAAAAAAAAAABgAAAAgAAAAQAAAAAAAAAAYAAAAKAAAAEAAAAAAAAAAGAAAACwAAABAAAAAAAAAABgAAAA0AAAA= --log-file=/Users/sophie/Library/Logs/CreativeCloud/ACC/CEF.log --shared-files
+  501   812 ??         0:00.22 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+  501   817 ??         0:31.75 /Library/Application Support/Adobe/Adobe Desktop Common/ADS/Adobe Desktop Service.app/Contents/MacOS/Adobe Desktop Service --onOSstartup=true --showwindow=false --waitForRegistration=true
+  501   820 ??         0:00.85 /Users/sophie/Library/Application Support/Setapp/LaunchAgents/Setapp.app/Contents/PlugIns/FinderSyncExt.appex/Contents/MacOS/FinderSyncExt
+  501   827 ??         0:00.54 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/SoftwareUpdateNotificationManager.app/Contents/MacOS/SoftwareUpdateNotificationManager
+  200   828 ??         0:00.51 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+    0   829 ??         0:00.02 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+   89   832 ??         0:01.12 /usr/libexec/trustd --agent
+  501   838 ??         0:01.28 /Applications/Docker.app/Contents/MacOS/com.docker.supervisor -watchdog
+  501   840 ??         0:01.47 /Applications/Docker.app/Contents/MacOS/com.docker.backend -watchdog
+  501   841 ??         0:03.79 /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/AdobeCRDaemon.app/Contents/MacOS/AdobeCRDaemon 731 Creative Cloud 5.3 /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/Resources/CreativeCloudApp.icns /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app/Contents/MacOS/Adobe Crash Reporter 0      5.3 5.3.1.470   Creative Cloud 1 1 1 0  8.0.6
+  501   843 ??         0:00.66 /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/MacOS/../Frameworks/Adobe CEF Helper.app/Contents/MacOS/Adobe CEF Helper --type=utility --field-trial-handle=1718379636,7917574835211639891,10560761657129142334,131072 --enable-features=CastMediaRouteProvider --disable-features=OutOfBlinkCors --lang=en --service-sandbox-type=network --no-sandbox --use-mock-keychain --locales-dir-path=/Library/Application Support/Adobe/Adobe Desktop Common/CEF/Chromium Embedded Framework.framework/Resources --log-file=/Users/sophie/Library/Logs/CreativeCloud/ACC/CEF.log --log-severity=warning --user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36 CreativeCloud/5.3.1.470 --lang=en --log-file=/Users/sophie/Library/Logs/CreativeCloud/ACC/CEF.log --shared-files
+  501   844 ??         0:00.05 com.docker.osxfs serve --address fd:3 --connect vms/0/connect --control fd:4
+    0   846 ??         0:00.15 /usr/libexec/rtcreportingd
+  501   851 ??         0:01.55 com.docker.vpnkit --ethernet fd:3 --diagnostics fd:4 --pcap fd:5 --vsock-path vms/0/connect --gateway-forwards /Users/sophie/Library/Group Containers/group.com.docker/gateway_forwards.json --host-names host.docker.internal,docker.for.mac.host.internal,docker.for.mac.localhost --listen-backlog 32 --mtu 1500 --allowed-bind-addresses 0.0.0.0 --http /Users/sophie/Library/Group Containers/group.com.docker/http_proxy.json --dhcp /Users/sophie/Library/Group Containers/group.com.docker/dhcp.json --port-max-idle-time 300 --max-connections 2000 --gateway-ip 192.168.65.1 --host-ip 192.168.65.2 --lowest-ip 192.168.65.3 --highest-ip 192.168.65.254 --log-destination asl --gc-compact-interval 1800
+  501   853 ??         0:00.89 /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/MacOS/../Frameworks/Adobe CEF Helper (Renderer).app/Contents/MacOS/Adobe CEF Helper (Renderer) --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --log-file=/Users/sophie/Library/Logs/CreativeCloud/ACC/CEF.log --field-trial-handle=1718379636,7917574835211639891,10560761657129142334,131072 --enable-features=CastMediaRouteProvider --disable-features=OutOfBlinkCors --lang=en --locales-dir-path=/Library/Application Support/Adobe/Adobe Desktop Common/CEF/Chromium Embedded Framework.framework/Resources --log-file=/Users/sophie/Library/Logs/CreativeCloud/ACC/CEF.log --log-severity=warning --user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36 CreativeCloud/5.3.1.470 --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files
+  501   854 ??         0:19.10 vpnkit-bridge --addr listen://1999 host
+  501   857 ??         0:00.00 (uname)
+  501   858 ??         0:03.48 com.docker.driver.amd64-linux -addr fd:3 -debug
+  501   859 ??         2:28.65 /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/MacOS/../Frameworks/Adobe CEF Helper (Renderer).app/Contents/MacOS/Adobe CEF Helper (Renderer) --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --log-file=/Users/sophie/Library/Logs/CreativeCloud/ACC/CEF.log --field-trial-handle=1718379636,7917574835211639891,10560761657129142334,131072 --enable-features=CastMediaRouteProvider --disable-features=OutOfBlinkCors --lang=en --locales-dir-path=/Library/Application Support/Adobe/Adobe Desktop Common/CEF/Chromium Embedded Framework.framework/Resources --log-file=/Users/sophie/Library/Logs/CreativeCloud/ACC/CEF.log --log-severity=warning --user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36 CreativeCloud/5.3.1.470 --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=4 --no-v8-untrusted-code-mitigations --shared-files
+  501   860 ??         0:00.90 docker serve --address unix:///Users/sophie/.docker/run/docker-cli-api.sock
+  501   866 ??         0:04.15 /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud Helper.app/Contents/MacOS/Creative Cloud Helper --remoteCoreExt=NGLWrapper --remoteHelper=CCH_NGLW
+  501   880 ??         0:05.62 /Library/Application Support/Adobe/Creative Cloud Libraries/CCLibrary.app/Contents/MacOS/../libs/node /Library/Application Support/Adobe/Creative Cloud Libraries/CCLibrary.app/Contents/MacOS/../js/server.js
+  501   881 ??         0:03.82 /Library/Application Support/Adobe/Adobe Desktop Common/ADS/Adobe Desktop Service.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/AdobeCRDaemon.app/Contents/MacOS/AdobeCRDaemon 817 Adobe Desktop Service 5.3.1 /Library/Application Support/Adobe/Adobe Desktop Common/ADS/Adobe Desktop Service.app/Contents/Resources/CreativeCloudApp.icns /Library/Application Support/Adobe/Adobe Desktop Common/ADS/Adobe Desktop Service.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app/Contents/MacOS/Adobe Crash Reporter 0      5.3.1 5.3.1.470   Adobe Desktop Service 1 1 1 0  8.0.6
+  501   884 ??         5:51.17 com.docker.hyperkit -A -u -F vms/0/hyperkit.pid -c 2 -m 4096M -s 0:0,hostbridge -s 31,lpc -s 1:0,virtio-vpnkit,path=vpnkit.eth.sock,uuid=6667f45f-07c3-47e5-a02a-61e7ed8581e1 -U 3a3ce69b-1417-47e0-9412-3b3fabad364a -s 2:0,virtio-blk,/Users/sophie/Library/Containers/com.docker.docker/Data/vms/0/data/Docker.raw -s 3,virtio-sock,guest_cid=3,path=vms/0,guest_forwards=2376;1525 -s 4,ahci-cd,/Applications/Docker.app/Contents/Resources/linuxkit/docker-desktop.iso -s 5,ahci-cd,vms/0/config.iso -s 6,ahci-cd,/Applications/Docker.app/Contents/Resources/linuxkit/docker.iso -s 7,virtio-rnd -l com1,null,asl,log=vms/0/console-ring -f bootrom,/Applications/Docker.app/Contents/Resources/uefi/UEFI.fd,,
+  205   885 ??         0:00.26 /usr/sbin/distnoted agent
+  501   899 ??         0:00.09 /System/Library/Frameworks/ColorSync.framework/Support/colorsync.useragent
+  501   905 ??         0:00.01 /usr/bin/ssh-agent -l
+  501   910 ??         0:01.70 /System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService
+  501   943 ??         0:03.11 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+  501   945 ??         0:00.36 /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+  501   970 ??         0:00.62 /System/Library/PrivateFrameworks/RemoteViewServices.framework/XPCServices/com.apple.security.pboxd.xpc/Contents/MacOS/com.apple.security.pboxd
+  501   971 ??         0:17.33 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+  501   972 ??         0:00.52 /Library/Application Support/TrendMicro/TmccMac/UIMgmt.app/Contents/PlugIns/UIMgmtFinderSyncExtension.appex/Contents/MacOS/UIMgmtFinderSyncExtension
+  501   973 ??         0:00.25 /usr/libexec/keyboardservicesd
+  501   974 ??         0:00.15 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+  501   975 ??         0:00.71 /System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd
+    0   977 ??         0:00.11 /System/Library/PrivateFrameworks/PerformanceAnalysis.framework/Versions/A/XPCServices/com.apple.PerformanceAnalysis.animationperfd.xpc/Contents/MacOS/com.apple.PerformanceAnalysis.animationperfd
+    0   983 ??         0:01.62 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+    0   984 ??         0:00.07 /usr/libexec/secinitd
+  501   988 ??         0:00.58 /System/Library/Frameworks/CoreSpotlight.framework/CoreSpotlightService
+  501  1058 ??         0:00.99 /usr/libexec/adprivacyd
+  501  1060 ??         0:00.11 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+  501  1061 ??         0:00.21 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/com.apple.siri.embeddedspeech.xpc/Contents/MacOS/com.apple.siri.embeddedspeech
+  501  1066 ??         0:00.52 /Library/Application Support/TrendMicro/TmccMac/UIMgmt.app/Contents/PlugIns/UIMgmtFinderSyncExtension.appex/Contents/MacOS/UIMgmtFinderSyncExtension
+  501  1072 ??         0:02.78 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+  501  1073 ??         0:00.35 /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+  501  1085 ??         0:01.74 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+  501  1337 ??         0:04.63 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistant_service
+  501  1374 ??         0:00.64 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper
+  501  1375 ??         0:00.54 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+  501  1410 ??         2:49.27 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+    0  1413 ??         0:00.40 /usr/libexec/dprivacyd
+    0  1423 ??         0:00.16 /Library/PrivilegedHelperTools/com.adobe.acc.installer.v2
+  501  1438 ??         0:00.18 /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/MacOS/../Frameworks/Adobe CEF Helper (Renderer).app/Contents/MacOS/Adobe CEF Helper (Renderer) --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --log-file=/Users/sophie/Library/Logs/CreativeCloud/ACC/CEF.log --field-trial-handle=1718379636,7917574835211639891,10560761657129142334,131072 --enable-features=CastMediaRouteProvider --disable-features=OutOfBlinkCors --lang=en --locales-dir-path=/Library/Application Support/Adobe/Adobe Desktop Common/CEF/Chromium Embedded Framework.framework/Resources --log-file=/Users/sophie/Library/Logs/CreativeCloud/ACC/CEF.log --log-severity=warning --user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36 CreativeCloud/5.3.1.470 --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files
+  501  1562 ??         0:14.66 /Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app/Contents/MacOS/Core Sync
+  501  1563 ??         0:00.60 /Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app/Contents/PlugIns/ACCFinderSync.appex/Contents/MacOS/ACCFinderSync
+  501  1693 ??         0:00.58 /System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper
+  501  1803 ??         0:00.17 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/reversetemplated
+  501  1843 ??         0:00.05 /usr/libexec/USBAgent
+  222  2325 ??         0:00.50 /usr/sbin/netbiosd
+    0  2334 ??         0:00.90 /usr/sbin/ocspd
+  501  2429 ??         0:00.34 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/MacOS/coreautha
+  501  2431 ??         0:00.64 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistorySyncHelper
+  501  2488 ??         0:02.44 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+  501  2489 ??         0:00.23 /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+    0  2494 ??         0:04.50 /usr/libexec/sandboxd
+  501  2500 ??         0:00.05 /Library/Apple/System/Library/Frameworks/SafariServices.framework/Versions/A/XPCServices/com.apple.SafariServices.xpc/Contents/MacOS/com.apple.SafariServices
+  501  2501 ??         0:00.34 /Library/Application Support/TrendMicro/TmccMac/UIMgmt.app/Contents/PlugIns/UIMgmtFinderSyncExtension.appex/Contents/MacOS/UIMgmtFinderSyncExtension
+  501  2542 ??         0:00.11 /System/Library/Frameworks/QuickLook.framework/Versions/A/XPCServices/QuickLookSatellite.xpc/Contents/MacOS/QuickLookSatellite
+  501  2575 ??         0:00.34 /Library/Application Support/TrendMicro/TmccMac/UIMgmt.app/Contents/PlugIns/UIMgmtFinderSyncExtension.appex/Contents/MacOS/UIMgmtFinderSyncExtension
+  501  2577 ??         0:10.05 /Applications/Adobe Acrobat Reader DC.app/Contents/MacOS/AdobeReader -psn_0_680102
+  501  2579 ??         0:01.50 /Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/AdobeCRDaemon.app/Contents/MacOS/AdobeCRDaemon 2577 AdobeReader 20.013.20074 /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/ACR_App.icns /Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app/Contents/MacOS/Adobe Crash Reporter 0      20.013.20074 20.013.20074   Acrobat Reader 0 1 1 0  8.0.7
+  501  2580 ??         0:00.34 /Library/Application Support/TrendMicro/TmccMac/UIMgmt.app/Contents/PlugIns/UIMgmtFinderSyncExtension.appex/Contents/MacOS/UIMgmtFinderSyncExtension
+  501  2581 ??         0:01.33 /Applications/Adobe Acrobat Reader DC.app/Contents/Helpers/AcroCEF/RdrCEF.app/Contents/MacOS/RdrCEF "/Applications/Adobe Acrobat Reader DC.app/Contents/Helpers/AcroCEF/RdrCEF.app" --backgroundcolor=3289650
+  501  2586 ??         0:01.41 /Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/RdrCEF Helper.app/Contents/MacOS/RdrCEF Helper --type=renderer --log-file=/Users/sophie/Library/Logs/RdrCEF_debug.log --touch-events=enabled --field-trial-handle=1718379636,16614555913401315314,3410551077312743051,131072 --disable-features=NetworkService,VizDisplayCompositor --disable-gpu-compositing --lang=en-US --log-file=/Users/sophie/Library/Logs/RdrCEF_debug.log --log-severity=disable --product-version=ReaderServices/20.13.20074 Chrome/80.0.0.0 --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --service-request-channel-token=9530412863270426504 --renderer-client-id=4 --seatbelt-client=32
+  501  2598 ??         0:01.27 /Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/RdrCEF Helper.app/Contents/MacOS/RdrCEF Helper --type=renderer --log-file=/Users/sophie/Library/Logs/RdrCEF_debug.log --touch-events=enabled --field-trial-handle=1718379636,16614555913401315314,3410551077312743051,131072 --disable-features=NetworkService,VizDisplayCompositor --disable-gpu-compositing --lang=en-US --log-file=/Users/sophie/Library/Logs/RdrCEF_debug.log --log-severity=disable --product-version=ReaderServices/20.13.20074 Chrome/80.0.0.0 --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --service-request-channel-token=16136930053231883134 --renderer-client-id=5 --seatbelt-client=49
+  501  2623 ??         0:00.84 /System/Library/CoreServices/NowPlayingTouchUI.app/Contents/MacOS/NowPlayingTouchUI
+  501  2626 ??         0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  501  2627 ??         0:00.02 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+  270  2677 ??         0:00.01 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserUSBHostHIDDevice0 0x10000132c
+  270  2678 ??         0:00.38 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserUSBHostHIDDeviceKB 0x10000132e
+  270  2679 ??         0:10.70 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserUSBHostHIDDevice1 0x100001332
+  270  2680 ??         0:00.01 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserUSBHostHIDDevice0 0x100001334
+  270  2681 ??         0:00.06 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserUSBHostHIDDevice0 0x100001336
+  270  2682 ??         0:00.01 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDEventDriver.dfrv1 0x10000135c
+  501  2705 ??         0:00.25 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+  501  2710 ??         0:01.43 /usr/libexec/studentd
+  501  2714 ??         0:00.11 /System/Library/PrivateFrameworks/ClassKit.framework/Versions/A/progressd
+  501  2715 ??         0:00.33 /System/Library/PrivateFrameworks/PassKitCore.framework/passd
+  501  2716 ??         0:00.17 /System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration
+  501  2718 ??         0:00.22 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd
+  260  2730 ??         0:00.06 /usr/libexec/seld
+  501  2731 ??         0:00.06 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+  501  2737 ??         0:00.41 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+  501  2738 ??         0:00.15 cloudphotod
+  501  2742 ??         0:00.25 /usr/libexec/avconferenced
+    0  2743 ??         0:00.06 /System/Library/PrivateFrameworks/CoreAccessories.framework/Support/accessoryd
+  265  2847 ??         0:00.07 /System/Library/PrivateFrameworks/CoreLSKD.framework/Versions/A/lskdd
+  501  2848 ??         0:00.26 /usr/libexec/transparencyd
+  235  2849 ??         0:00.10 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -d
+  501  2934 ??         0:52.12 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  2935 ??         0:10.86 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+    0  3018 ??         0:26.54 /usr/sbin/bluetoothaudiod
+  501  3065 ??         2:44.05 /Applications/Android Studio.app/Contents/MacOS/studio
+  501  3071 ??         0:00.37 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMCompiler 2
+  501  3083 ??         0:00.15 /Applications/Android Studio.app/Contents/bin/fsnotifier
+  501  3094 ??         0:08.12 adb -L tcp:5037 fork-server server --reply-fd 4
+  501  3106 ??         8:44.62 /Users/sophie/Library/Android/sdk/emulator/qemu/darwin-x86_64/qemu-system-x86_64 -netdelay none -netspeed full -no-snapstorage -avd Pixel3
+  501  3107 ??         0:00.34 /Users/sophie/Library/Android/sdk/emulator/emulator64-crash-service -pipe com.google.AndroidEmulator.CrashService.3106 -ppid 3106 -data-dir /tmp/android-sophie/06a5014b-b861-4841-9a7e-5545733b96e3
+  501  3109 ??         0:34.70 /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/bin/java -Xmx2048m -Dfile.encoding=UTF-8 -Duser.country=SG -Duser.language=en -Duser.variant -cp /Users/sophie/.gradle/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-launcher-6.5.jar org.gradle.launcher.daemon.bootstrap.GradleDaemon 6.5
+  501  3126 ??         0:00.00 (adb)
+  501  3127 ??         0:00.00 (adb)
+  501  3129 ??         0:00.00 (adb)
+  501  3140 ??         0:00.00 (adb)
+  501  3142 ??         0:00.00 (adb)
+  501  3211 ??         0:00.03 /System/Library/CoreServices/ControlStrip.app/Contents/XPCServices/com.apple.DFRSystemExtra.Siri.xpc/Contents/MacOS/com.apple.DFRSystemExtra.Siri
+  501  3212 ??         0:00.46 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/SpeechSynthesis.framework/Resources/com.apple.speech.speechsynthesisd
+  501  3213 ??         0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  501  3214 ??         0:00.16 /System/Library/CoreServices/LocationMenu.app/Contents/MacOS/LocationMenu
+  501  3215 ??         0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+  501  3220 ??         0:11.99 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  3261 ??         0:00.33 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
+  501  3262 ??         0:00.14 /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/XPCServices/com.apple.iCloudHelper.xpc/Contents/MacOS/com.apple.iCloudHelper
+  501  3267 ??         0:00.10 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+  501  3269 ??         0:03.63 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  3271 ??         0:00.04 /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.MobileDocumentsFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.MobileDocumentsFileProvider
+  501  3280 ??         0:00.06 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+  501  3307 ??         0:00.08 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+  501  3308 ??         0:00.09 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  501  3326 ??         0:00.09 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+  501  3335 ??         0:00.05 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+  501  3145 ttys000    0:00.07 /bin/bash --rcfile /Applications/Android Studio.app/Contents/plugins/terminal/jediterm-bash.in -i
+    0  3341 ttys000    0:00.01 ps -ausophie
